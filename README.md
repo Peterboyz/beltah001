@@ -1,6 +1,6 @@
-# 𝐃𝐑𝐄𝐗 𝐁𝐎𝐓
+# PETERBOYZ17
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=𝐃𝐑𝐄𝐗+𝐁𝐎𝐓;A+WHATSAPP+BOT;CREATED+BY+DREX+MOSE" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=PETERBOYZ+𝐁𝐎𝐓;A+WHATSAPP+BOT;CREATED+BY+DREX+MOSE" alt="Typing SVG" /></a>
   </p>
   
 <p align="center">
@@ -24,7 +24,7 @@
 </p>
 
 
-***Made on Earth by 𝐃𝐫𝐞𝐱 𝐌𝐨𝐬𝐞***
+***Made on Earth by PETERBOYZ17***
 
 
 ***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/adiwajshing/Baileys)***
@@ -80,5 +80,5 @@ Modifying the bot structure is at your own risk. We won't offer technical suppor
 
 [MIT License](https://https://github.com/drexmose/Cdrex-ai/blob/main/LICENSE)
 
-Copyright (c) 2024 𝐃𝐑𝐄𝐗 𝐁𝐎𝐓®
+Copyright (c) 2024 PETERBOYZ17®
 
