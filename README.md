@@ -1,6 +1,6 @@
 # PETERBOYZ17
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=PETERBOYZ+𝐁𝐎𝐓;A+WHATSAPP+BOT;CREATED+BY+DREX+MOSE" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=PETERBOYZ17+𝐁𝐎𝐓;A+WHATSAPP+BOT;CREATED+BY+DREX+MOSE" alt="Typing SVG" /></a>
   </p>
   
 <p align="center">
@@ -13,10 +13,10 @@
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-DREX MOSE-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="'https://wa.me/254102074064yoh+𝕯⃟𝗮𝗿𝗸_𝗜𝗻𝘁𝗲𝗻𝘁⃟ꦿ⸼ +nishow+venye+nitadeploy+drex-ai'"><img title="Whatsapp" src="'https://wa.me/254102074064yoh+𝕯⃟𝗮𝗿𝗸_𝗜𝗻𝘁𝗲𝗻𝘁⃟ꦿ⸼ +nishow+venye+nitadeploy+drex-ai'?color=green&style=flat-square"></a>
+<a href="'https://wa.me/254102074064yoh+𝕯⃟𝗮𝗿𝗸_𝗜𝗻𝘁𝗲𝗻𝘁⃟ꦿ⸼ +nishow+venye+nitadeploy+drex-ai'"><img title="Whatsapp" src="'https://wa.me/254102074064yoh+𝕯⃟𝗮𝗿𝗸_𝗜𝗻𝘁𝗲𝗻𝘁⃟ꦿ⸼ +nishow+venye+nitadeploy+drex-ai'?color=blue&style=flat-square"></a>
   
 <a href="https://wa.me/254102074064yoh+𝕯⃟𝗮𝗿𝗸_𝗜𝗻𝘁𝗲𝗻𝘁⃟ꦿ⸼"><img title="Twitter" src="https://x.com/NSirm5?s=09?color=black&style=flat-square"></a>
-<a href="https://github.com/drexmose/drex-ai/network/members"><img title="Forks" src="https://img.shields.io/github/fork/drexmose/drex-ai?color=yellow&style=flat-square"></a>
+<a href="https://github.com/drexmose/drex-ai/network/members"><img title="Forks" src="https://img.shields.io/github/fork/drexmose/drex-ai?color=green&style=flat-square"></a>
 <a href="https://github.com/drexmose/drex-ai/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/drexmose/drex-ai?label=Watchers&color=red&style=flat-square"></a>
 <a href="https://github.com/drexmose/drex-ai/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/drexmose/drex-ai/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
